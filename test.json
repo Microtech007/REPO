@@ -1,0 +1,8 @@
+{
+    "name": "MTS providers repository (Backup)",
+    "description": "MTS Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Microtech007/REPO/master/test1.json"
+    ]
+  }
